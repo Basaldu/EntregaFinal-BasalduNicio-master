@@ -520,7 +520,7 @@ font-size: 20px;
         background-size: 500rem;
     }
     footer {
-        margin-top: 1700px;
+        margin-top: 2000px;
     }
     
     .menu_nav {
@@ -529,6 +529,7 @@ font-size: 20px;
     .zoom1 {
         position: absolute;
         top: 500px;
+        margin-left: 100px;
     }
     .zoom2 {
         position: absolute;
@@ -537,12 +538,13 @@ font-size: 20px;
     }
     .subtitulo {
         position: absolute;
-        top: 200px;
+        margin-top: 230px;
         left: 100px;
     }
     .subtitulo2 {
         position: absolute;
         top: 1300px;
+        left: 100px;
     }
     .slider-frame {
         width: 90%;
