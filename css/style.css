@@ -522,28 +522,27 @@ font-size: 20px;
     footer {
         margin-top: 2000px;
     }
-    
     .menu_nav {
         display: initial;
     }
     .zoom1 {
         position: absolute;
-        top: 500px;
-        margin-left: 100px;
+        top: 550px;
+        margin-left: 50px;
     }
     .zoom2 {
         position: absolute;
         top: 900px;
-        left: 100px;
+        left: 44px;
     }
     .subtitulo {
         position: absolute;
-        margin-top: 230px;
-        left: 100px;
+        margin-top: 220px;
+        left: 30px;
     }
     .subtitulo2 {
         position: absolute;
-        top: 1300px;
+        top: 1250px;
         left: 100px;
     }
     .slider-frame {
@@ -588,6 +587,8 @@ font-size: 20px;
     left: 20px;
  }
  .mapa {
+   width: 300px;
+   height: 500px;
     position: absolute;
    margin-top: 510px;
     margin-left: 50px;
@@ -628,13 +629,15 @@ ul li a {
     width: 300px;
 }
 .escribenos {
+    font-size: 1.5rem;
     position: absolute;
-    top: 300px;
-    right: 0px;
+    top: 500px;
+    left: 0px;
+    padding: 80px;
 }
 .mail {
     position: absolute;
-    left: 180px;
-    top: 1188px;
+    left: 10px;
+    top: 1000px;
 }
 }
